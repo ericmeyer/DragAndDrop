@@ -958,3 +958,97 @@ ActionController::UnknownAction (No action responded to add. Actions: ):
   /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
 
 Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:26:49) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 42ms (View: 41, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for ::1 at 2009-06-18 10:27:40) [GET]
+
+SyntaxError (/Users/ericmeyer/Projects/fun/drag_and_drop/app/controllers/main_controller.rb:4: syntax error, unexpected tSTRING_BEG, expecting kEND
+    render :template "index"
+                      ^):
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (31.2ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:27:47) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:27:49) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 10:27:51) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1", "authenticity_token"=>"dEoeWJ1mn9QOnEjL7M7qIh0ErPAhdxBg6+HgUgYTNiE="}
+Rendering template within layouts/default
+Rendering index
+
+ActionView::MissingTemplate (Missing template index.erb in view path app/views):
+  haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+  haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+  app/controllers/main_controller.rb:4:in `add'
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:28:02) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 10:28:03) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1", "authenticity_token"=>"dEoeWJ1mn9QOnEjL7M7qIh0ErPAhdxBg6+HgUgYTNiE="}
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:28:24) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:28:25) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 10:28:25) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/main]

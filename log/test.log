@@ -1,0 +1,3248 @@
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>[]}
+Redirected to http://localhost:3000/selenium/TestRunner.html?test=tests
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/selenium]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:31) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 14ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 7ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:32) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:07:37) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:07:37) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:16) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 21ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:17) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 17ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:18) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:09:20) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:09:20) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 12ms (View: 12, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:31) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:31) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:31) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:31) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:31) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:32) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:10:33) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:33) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:10:33) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:33) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:10:34) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:10:34) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:10:34) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:45) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:46) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:12:47) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:47) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:12:47) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:47) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:12:50) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:12:50) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:12:50) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:12:50) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:54) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 7ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:55) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:13:56) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:56) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:13:56) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:56) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:13:56) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:13:56) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:13:57) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:13:57) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:14:20) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:14:22) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:15:29) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:15:31) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:35) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 21ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 6ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 7ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:36) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:15:37) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:37) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:15:37) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:15:37) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:15:37) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:15:37) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:57) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:58) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:16:59) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:59) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:16:59) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:59) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:16:59) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:17:00) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:17:00) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:17:00) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:12) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:13) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:14) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:14) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:14) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:14) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:14) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:17:14) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:17:14) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:17:15) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:19) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:19) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:19) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:19) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:20) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:21) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:21) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:21) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+
+ActionView::TemplateError (undefined local variable or method `wait' for #<SeleniumOnRails::RSelenese::Evaluator:0x2767968>) on line #1 of test/selenium/drag.rsel:
+1: setup
+2: open '/main'
+3: assert_title 'Home'
+4: drag_and_drop_to_object "div_one_list_1", "div_two"
+
+    builder (2.1.2) lib/builder/xmlbase.rb:134:in `call'
+    builder (2.1.2) lib/builder/xmlbase.rb:134:in `_nested_structures'
+    builder (2.1.2) lib/builder/xmlbase.rb:58:in `method_missing'
+    test/selenium/drag.rsel:1:in `_run_rsel_test47selenium47drag46rsel_locals_page_title'
+    haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (48.7ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:21) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:30) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 68ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:31) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:32) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:32) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:32) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 1004ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:33) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:33) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:17:33) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:17:33) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:17:34) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:42) [GET]
+  Parameters: {"filename"=>["TestRunner.html"], "test"=>"tests"}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:42) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:42) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:42) [GET]
+  Parameters: {"filename"=>["lib", "prototype.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/prototype.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/prototype.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "cssQuery", "cssQuery-p.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/cssQuery/cssQuery-p.js
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/lib/cssQuery/cssQuery-p.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "snapsie.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/snapsie.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/snapsie.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "htmlutils.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/htmlutils.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "ui-element.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/ui-element.js
+Completed in 61ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/ui-element.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "scriptaculous.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/scriptaculous.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "builder.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/builder.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "effects.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/effects.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "dragdrop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/dragdrop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "controls.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/controls.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["lib", "scriptaculous", "slider.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/lib/scriptaculous/slider.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserbot.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "find_matching_child.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/find_matching_child.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/find_matching_child.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-api.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-api.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-commandhandlers.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-executionloop.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-testrunner.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-logging.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-logging.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-version.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-version.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["xpath", "util.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/util.js
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/util.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["xpath", "xmltoken.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xmltoken.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xmltoken.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["xpath", "dom.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/dom.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/dom.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["xpath", "xpath.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/xpath.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/xpath.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["xpath", "javascript-xpath-0.1.11.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/xpath/javascript-xpath-0.1.11.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/xpath/javascript-xpath-0.1.11.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "user-extensions.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/user-extensions.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["TestPrompt.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["Blank.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/Blank.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["icons", "all.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/all.png
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/all.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["icons", "selected.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/selected.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/selected.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["icons", "pause_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["icons", "step_disabled.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/step_disabled.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/step_disabled.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["TestRunner-splash.html"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/selenium-browserdetect.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["selenium.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["selenium-logo.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:43) [GET]
+  Parameters: {"filename"=>["scripts", "xmlextras.js"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/scripts/xmlextras.js
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/scripts/xmlextras.js]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:44) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>[]}
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/tests?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:44) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#test_file (for ::1 at 2009-06-18 13:17:44) [GET]
+  Parameters: {"thisIsChrome"=>"false", "thisIsHTA"=>"false", "testname"=>["drag.rsel"]}
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/test/selenium/drag.rsel
+Rendering template within layouts/layout
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/tests/drag.rsel?thisIsChrome=false&thisIsHTA=false]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:44) [GET]
+  Parameters: {"filename"=>["selenium-test.css"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/selenium-test.css]
+
+
+Processing SeleniumController#support_file (for ::1 at 2009-06-18 13:17:46) [GET]
+  Parameters: {"filename"=>["icons", "pause.png"]}
+Sending file /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/selenium-core/icons/pause.png
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/selenium/icons/pause.png]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:17:46) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:17:46) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:17:46) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:18:09) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:18:21) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:18:25) [POST]
+  Parameters: {"message"=>"Message5", "three"=>"anotherparam", "my_param"=>"5"}
+Rendering main/add
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:18:28) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:18:28) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:18:29) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/main/add]
+
+
+Processing SeleniumController#setup (for ::1 at 2009-06-18 13:18:33) [GET]
+Rendering template within layouts/layout
+Rendering /Users/ericmeyer/Projects/fun/drag_and_drop/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 13:18:34) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 13:18:37) [POST]
+  Parameters: {"message"=>"Message1", "three"=>"anotherparam", "my_param"=>"1"}
+Rendering main/add
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/main/add]

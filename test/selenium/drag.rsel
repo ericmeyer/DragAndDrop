@@ -1,0 +1,5 @@
+setup
+open '/main'
+assert_title 'Home'
+drag_and_drop_to_object "div_one_list_1", "div_two"
+wait_for_text_present "You Dragged Me!"

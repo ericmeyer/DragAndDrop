@@ -1,6 +1,7 @@
+#message_div
 #div_one
   - 10.times do |index|
-    %div{:id => "div_one_list_#{index}", :my_param => index, :message => "Happy#{index}", :three => "anotherparam"}
+    %div{:id => "div_one_list_#{index}", :my_param => index, :message => "Message#{index}", :three => "anotherparam"}
       = "Item #{index}"
       = draggable_element("div_one_list_#{index}", :revert => true)
     
