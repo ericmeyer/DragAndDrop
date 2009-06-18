@@ -1,10 +1,10 @@
 #div_one
   - 10.times do |index|
-    %div{:id => "div_one_list_#{index}", :some_index => index}
+    %div{:id => "div_one_list_#{index}", :my_param => index, :message => "Happy#{index}", :three => "anotherparam"}
       = "Item #{index}"
       = draggable_element("div_one_list_#{index}", :revert => true)
     
 #div_two
   Some Content
 
-= drop_receiving_element("div_two", :hoverclass => "hover", :with => "'my_param=' + (element.getAttribute('some_index'))", :url => {:controller => "main", :action => "add"})
+= drop_receiving_element("div_two", :hoverclass => "hover", :with => droppableParams(["my_param", "message", "three"]), :url => {:controller => "main", :action => "add"})

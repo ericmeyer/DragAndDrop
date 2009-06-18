@@ -1,11 +1,17 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe MainHelper do
+  include MainHelper
+  it "should return the string for one param" do
+    droppableParams("my_param").should == "'my_param=' + (element.getAttribute('my_param'))"
+    droppableParams(["my_param"]).should == "'my_param=' + (element.getAttribute('my_param'))"
+  end
   
-  #Delete this example and add some real ones or delete this file
-  it "should be included in the object returned by #helper" do
-    included_modules = (class << helper; self; end).send :included_modules
-    included_modules.should include(MainHelper)
+  it "should return the string for two params" do
+    droppableParams(["my_param", "param_two"]).should == "'my_param=' + (element.getAttribute('my_param')) + '&param_two=' + (element.getAttribute('param_two'))"
   end
 
+  it "should return the string for three params" do
+    droppableParams(["my_param", "param_two", "three"]).should == "'my_param=' + (element.getAttribute('my_param')) + '&param_two=' + (element.getAttribute('param_two')) + '&three=' + (element.getAttribute('three'))"
+  end
 end
