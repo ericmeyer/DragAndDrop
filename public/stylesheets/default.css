@@ -1,0 +1,8 @@
+#div_two {
+	border: solid 1px black;
+	padding: 30px;
+	width: 400px;
+}
+#div_two.hover {
+	background-color: yellow;
+}

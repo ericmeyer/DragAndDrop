@@ -1,0 +1,960 @@
+
+
+Processing ApplicationController#index (for ::1 at 2009-06-17 22:35:02) [GET]
+
+ActionController::RoutingError (No route matches "/main" with {:method=>:get}):
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:35:10) [GET]
+
+ActionView::MissingTemplate (Missing layout layouts/default.erb in view path app/views):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:35:12) [GET]
+
+ActionView::MissingTemplate (Missing layout layouts/default.erb in view path app/views):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:35:19) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:35:54) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:48:18) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:50:29) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:50:30) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-17 22:50:35) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_0"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:53:32) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:56:01) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-17 22:56:15) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list[2]"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:57:55) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-17 22:57:58) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_0", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-17 22:58:08) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-17 22:58:13) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_1", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-17 22:58:18) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_5", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:53:42) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:54:12) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:54:22) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_4", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:54:53) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:54:56) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_3", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:55:01) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_4", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:55:03) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_5", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:55:05) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:55:09) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_5", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:55:41) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:55:45) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:55:48) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_1", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:55:53) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:55:56) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_1", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:56:16) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:56:33) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:56:46) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:56:59) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:57:36) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:57:37) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:57:57) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for ::1 at 2009-06-18 07:57:57) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/new.css" with {:method=>:get}):
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:57:58) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing ApplicationController#index (for ::1 at 2009-06-18 07:57:58) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/new.css" with {:method=>:get}):
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:58:05) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:58:17) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 07:58:24) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:58:31) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_3", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-18 07:58:36) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "id"=>"div_one_list_2", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:02:35) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:03:39) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:04:06) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:05:29) [GET]
+Rendering template within layouts/default
+Rendering main/index
+ERROR: compiling _run_haml_app47views47main47index46haml RAISED compile error
+/Users/ericmeyer/Projects/fun/drag_and_drop/app/views/main/index.haml:10: syntax error, unexpected ':', expecting ')'
+...{element.id.split('_').last}":url => {:controller => "main",...
+                              ^
+/Users/ericmeyer/Projects/fun/drag_and_drop/app/views/main/index.haml:10: syntax error, unexpected ')', expecting kEND
+...on => "add", :other=>"value"});
+                              ^
+Function body:           def _run_haml_app47views47main47index46haml(local_assigns)
+            old_output_buffer = output_buffer;;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:ugly=>false, :format=>:xhtml, :attr_wrapper=>"'", :preserve=>["textarea", "pre"], :autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"]});_erbout = _hamlout.buffer;__in_erb_template = true;;
+_hamlout.push_text("<div id='div_one'>\n", false, 1); 10.times do |index|;
+_hamlout.open_tag("div", false, false, false, false, {}, false, false, nil, nil, :id => "div_one_list_#{index}");
+_hamlout.push_text("    ");haml_temp =  "Item #{index}";
+haml_temp = _hamlout.push_script(haml_temp, false, false, false, false, false);_hamlout.push_text("    ");haml_temp =  draggable_element("div_one_list_#{index}", :revert => true);
+haml_temp = _hamlout.push_script(haml_temp, false, false, false, false, false);
+_hamlout.push_text("  </div>\n", false, -1);end;
+
+
+_hamlout.push_text("</div>\n<div id='div_two'>\n  Some Content\n</div>\n", false, -1);haml_temp =  drop_receiving_element("div_two", :hoverclass => "hover", :with =>  "test=#{element.id.split('_').last}":url => {:controller => "main", :action => "add", :other=>"value"});
+haml_temp = _hamlout.push_script(haml_temp, false, false, false, false, false);
+@haml_buffer = @haml_buffer.upper;_erbout;
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/ericmeyer/Projects/fun/drag_and_drop/app/views/main/index.haml:15:in `compile!'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render_without_haml'
+/Users/ericmeyer/Projects/fun/drag_and_drop/vendor/gems/haml-2.0.9/lib/haml/helpers/action_view_mods.rb:14:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render_without_haml'
+/Users/ericmeyer/Projects/fun/drag_and_drop/vendor/gems/haml-2.0.9/lib/haml/helpers/action_view_mods.rb:14:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1329:in `perform_action_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `sass_old_process'
+/Users/ericmeyer/Projects/fun/drag_and_drop/vendor/gems/haml-2.0.9/rails/../lib/sass/plugin/rails.rb:19:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/webrick.rb:46:in `service'
+/opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+/opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+/opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+/opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+/opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+/opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+/opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+/opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+/opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+/opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/webrick.rb:13:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/ericmeyer/Projects/fun/drag_and_drop/app/views/main/index.haml:10: syntax error, unexpected ':', expecting ')'
+...{element.id.split('_').last}":url => {:controller => "main",...
+                              ^
+/Users/ericmeyer/Projects/fun/drag_and_drop/app/views/main/index.haml:10: syntax error, unexpected ')', expecting kEND
+...on => "add", :other=>"value"});
+                              ^) on line #10 of app/views/main/index.haml:
+7: #div_two
+8:   Some Content
+9: 
+10: = drop_receiving_element("div_two", :hoverclass => "hover", :with =>  "test=#{element.id.split('_').last}":url => {:controller => "main", :action => "add", :other=>"value"})
+
+    app/views/main/index.haml:15:in `compile!'
+    haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (36.9ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:05:34) [GET]
+Rendering template within layouts/default
+Rendering main/index
+
+ActionView::TemplateError (undefined local variable or method `element' for #<ActionView::Base:0x1bc4f70>) on line #10 of app/views/main/index.haml:
+7: #div_two
+8:   Some Content
+9: 
+10: = drop_receiving_element("div_two", :hoverclass => "hover", :with =>  "test=#{element.id.split('_').last}", :url => {:controller => "main", :action => "add", :other=>"value"})
+
+    app/views/main/index.haml:10:in `_run_haml_app47views47main47index46haml'
+    haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) [v] lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (37.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:06:11) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:06:16) [POST]
+  Parameters: {"authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "other"=>"value", "comment"=>"2"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:07:02) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:07:11) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:07:13) [POST]
+  Parameters: {"magic_card_id"=>"undefined", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:08:20) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:08:21) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:09:13) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:09:14) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:09:18) [POST]
+  Parameters: {"magic_card_id"=>"[object Attr]", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY=", "other"=>"value"}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:09:40) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:09:42) [POST]
+  Parameters: {"magic_card_id"=>"[object Attr]", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:10:16) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:10:25) [POST]
+  Parameters: {"magic_card_id"=>"[object Attr]", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:11:41) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:11:46) [POST]
+  Parameters: {"magic_card_id"=>"undefined", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:14:19) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:14:28) [POST]
+  Parameters: {"magic_card_id"=>"4", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#index (for ::1 at 2009-06-18 08:15:00) [GET]
+Rendering template within layouts/default
+Rendering main/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/main]
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:15:05) [POST]
+  Parameters: {"my_param"=>"2", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:15:09) [POST]
+  Parameters: {"my_param"=>"3", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#add (for ::1 at 2009-06-18 08:15:12) [POST]
+  Parameters: {"my_param"=>"9", "authenticity_token"=>"n8isjhGRNTS8EYPl4Xn0jzsMEQiLe4b9w5d2EOKpjqY="}
+
+ActionController::UnknownAction (No action responded to add. Actions: ):
+  haml (2.0.9) [v] rails/./lib/sass/plugin/rails.rb:19:in `process'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
