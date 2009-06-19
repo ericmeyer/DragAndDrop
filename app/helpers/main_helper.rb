@@ -1,5 +1,5 @@
 module MainHelper
-  def droppableParams(params)
+  def droppable_params(params)
     with_string = ""
     params.each_with_index do |param, index|
       if index == 0
